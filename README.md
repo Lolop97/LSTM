@@ -1,0 +1,1 @@
+LSTM structure, with temperature, relative humidity, pressure, precipitable water vapor, cumulative rainfall, and temporal features such as month and day as input variables. A model that can do a short-term precipitation forecasting. Important to underline the important role of cumulative rainfall. 
